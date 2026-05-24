@@ -39,9 +39,6 @@ StyleSheet
 ## Tampilan Search Screens
 ![alt text](<WhatsApp Image 2026-05-24 at 12.54.10 (1).jpeg>)
 
-## Tampilan Favorite Screens 
-![alt text](<WhatsApp Image 2026-05-24 at 12.54.11.jpeg>)
-
 
 ## Author
 Egi Stevan Barus
